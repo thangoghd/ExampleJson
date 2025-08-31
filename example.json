@@ -1,14 +1,11 @@
 {
-  "id": "demo",
-  "name": "Demo Provider",
-  "description": "A list of demo animations",
+  "id": "timstreams-pvd",
+  "name": "TimStreams",
+  "description": "TimStreams - Free Streams For Your Soul!",
   "url": "https://iptvschema.org/demo.json",
-  "color": "#181818",
+  "color": "#3b82f6",
   "image": {
-    "url": "https://iptvschema.org/img/logo.png",
-    "type": "contain",
-    "height": 187,
-    "width": 28
+    "url": "https://timstreams.xyz/favicon.ico",
   },
   "grid_number": 2,
   "groups": [
